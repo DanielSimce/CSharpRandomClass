@@ -1,0 +1,15 @@
+c:\users\javni nabavki\documents\visual studio 2015\Projects\Random-Class\Random-Class\bin\Debug\Random-Class.exe
+c:\users\javni nabavki\documents\visual studio 2015\Projects\Random-Class\Random-Class\bin\Debug\Random-Class.pdb
+c:\users\javni nabavki\documents\visual studio 2015\Projects\Random-Class\Random-Class\obj\Debug\Random-Class.csprojResolveAssemblyReference.cache
+c:\users\javni nabavki\documents\visual studio 2015\Projects\Random-Class\Random-Class\obj\Debug\Random-Class.exe
+c:\users\javni nabavki\documents\visual studio 2015\Projects\Random-Class\Random-Class\obj\Debug\Random-Class.pdb
+C:\Users\Daniel\source\repos\Random-Class\Random-Class\bin\Debug\Random-Class.exe
+C:\Users\Daniel\source\repos\Random-Class\Random-Class\bin\Debug\Random-Class.pdb
+C:\Users\Daniel\source\repos\Random-Class\Random-Class\obj\Debug\Random-Class.csprojAssemblyReference.cache
+C:\Users\Daniel\source\repos\Random-Class\Random-Class\obj\Debug\Random-Class.exe
+C:\Users\Daniel\source\repos\Random-Class\Random-Class\obj\Debug\Random-Class.pdb
+D:\Trening C#\Repos\Random-Class\Random-Class\bin\Debug\Random-Class.exe
+D:\Trening C#\Repos\Random-Class\Random-Class\bin\Debug\Random-Class.pdb
+D:\Trening C#\Repos\Random-Class\Random-Class\obj\Debug\Random-Class.csprojAssemblyReference.cache
+D:\Trening C#\Repos\Random-Class\Random-Class\obj\Debug\Random-Class.exe
+D:\Trening C#\Repos\Random-Class\Random-Class\obj\Debug\Random-Class.pdb
